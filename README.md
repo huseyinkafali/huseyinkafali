@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huseyin</h1>
 <h3 align="center">A passionate data engineer from Turkey</h3>
 
-- 🔭 I’m currently working on **IBM - Data Engineering Project of ETL**
+- 🔭 I’m currently working on **AWS Services and AWS Data Engineering**
 
 - 🌱 I’m currently learning **AWS Lambda, AWS Glue, Amazon Kinesis Data,Amazon Airflow, Amazon Athena AWS Glue Workflows, Analytics**
 
