@@ -3,7 +3,7 @@
 
 - 🔭 Managing End to End ETL, transforming data into insights and solutions are my passions.
 
-- 💬 Ask me about **PowerBI, SSIS, SSAS, SSRS, Microsoft SQL Server, Postgresql, Python, SQL, Docker, Kafka, Apache Spark Streaming, Change Data Capture, Debezium**
+- 💬 Ask me about **PowerBI, SSIS, SSAS, SSRS, Microsoft SQL Server, PostgreSQL, SQL, Python, Docker, Kafka, Apache Spark Streaming, Change Data Capture, Debezium**
 
 - 📫 How to reach me **hhuseyinkafali@gmail.com**
 
