@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huseyin</h1>
 <h3 align="center">A passionate BI & ETL Developer from Turkey</h3>
 
-- 🔭 I’m currently working as **Business Intelligence & ETL Developer**
+- 🔭 Managing End to End ETL, transforming data into insights and solutions are my passions.
 
 - 💬 Ask me about **PowerBI,SSIS,SSAS,SSRS, MicroPython,SQL,Docker,Kafka,PostgreSQL, Apache Spark Streaming, Change Data Capture, Debezium**
 
