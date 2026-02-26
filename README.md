@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Huseyin</h1>
 <h3 align="center">A passionate data engineer from Turkey</h3>
 
-- 🔭 I’m currently working on **AWS Services and AWS Data Engineering**
+- 🔭 I’m currently working as **Business Intelligence & ETL Developer**
 
 - 🌱 I’m currently learning **AWS Lambda, AWS Glue, Amazon Kinesis Data,Amazon Airflow, Amazon Athena AWS Glue Workflows, Analytics**
 
-- 💬 Ask me about **Python,SQL,Docker,Kafka,PostgreSQL, Apache Spark Streaming, Change Data Capture, Debezium**
+- 💬 Ask me about **PowerBIPython,SQL,Docker,Kafka,PostgreSQL, Apache Spark Streaming, Change Data Capture, Debezium**
 
 - 📫 How to reach me **hhuseyinkafali@gmail.com**
 
